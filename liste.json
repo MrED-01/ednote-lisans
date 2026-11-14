@@ -1,6 +1,12 @@
 {
- "v": 1,
- "codes": [
-  "8e4205979b0a42c8a8c4719281c79cfc21ee2c3743387aeab95afb61c8a68f41"
- ]
+  "v": 1,
+  "codes": [
+    "8e4205979b0a42c8a8c4719281c79cfc21ee2c3743387aeab95afb61c8a68f41"
+  ],
+  "latest": {
+    "build": 8,
+    "version": "6.8.3",
+    "url": "https://github.com/MrED-01/ednote-lisans/releases/download/v6.8.3-8/ED-Note.apk",
+    "notes": ""
+  }
 }
