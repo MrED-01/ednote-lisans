@@ -1,12 +1,15 @@
 {
-  "v": 1,
-  "codes": [
-    "8e4205979b0a42c8a8c4719281c79cfc21ee2c3743387aeab95afb61c8a68f41"
-  ],
-  "latest": {
-    "build": 13,
-    "version": "6.9.2",
-    "url": "https://github.com/MrED-01/ednote-lisans/releases/download/v6.9.2-13/ED-Note.apk",
-    "notes": ""
-  }
+ "v": 1,
+ "codes": [
+  "8e4205979b0a42c8a8c4719281c79cfc21ee2c3743387aeab95afb61c8a68f41",
+  "467020a9feec46db5b88e6f473ea76b0c99808afbf8f3ba11d91974ad8deebd7",
+  "d08779f9ed38859fd9b621b0f3440c99d4363f8a99b743705a05ad491da7eadf",
+  "f8e22efd84824a99ebe74f49dbe860055f6b0fa400e8030ba6fc022577cc0c0f"
+ ],
+ "latest": {
+  "build": 13,
+  "version": "6.9.2",
+  "url": "https://github.com/MrED-01/ednote-lisans/releases/download/v6.9.2-13/ED-Note.apk",
+  "notes": ""
+ }
 }
